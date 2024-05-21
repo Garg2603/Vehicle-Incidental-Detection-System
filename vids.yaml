@@ -1,0 +1,6 @@
+path: /home/vrs/train/lp_seg/data/detect/vids
+train: images/train
+val: images/val
+
+nc: 7
+names: ["vehicle","Person","animal","debris","fire","accident","non-accident"]
