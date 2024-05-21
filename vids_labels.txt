@@ -1,0 +1,7 @@
+0 vehicle               #red (wrong side)   #blue (stop)    #yellow (halt)
+1 Person                #orange
+2 animal                #pink
+3 debris                #green
+4 fire                  #light blue
+5 accident              #gray
+6 non-accident          #white
